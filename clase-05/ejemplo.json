@@ -1,0 +1,37 @@
+{
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "id": 333339,
+        "original_language": "en",
+        "original_title": "Ready Player One",
+        "overview": "La historia sucede en 2045, con el mundo al borde del caos y el colapso. Pero la gente encuentra la salvación en OASIS, universo expansivo de realidad virtual creado por el brillante y excéntrico James Halliday. Halliday muere y su inmensa fortuna será heredada por la primera persona que encuentre un huevo de Pascua digital que él escondió en algún lugar de OASIS... y así se detona una competencia que engancha al mundo entero. Cuando Wade Watts un joven e improbable héroe decide unirse a la competencia, se ve arrastrado dentro de una vertiginosa cacería de tesoros que distrosiona la realidad a través de un universo fantástico de misterio, exploración y peligro.",
+        "popularity": 75.493,
+        "poster_path": "/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",
+        "release_date": "2018-03-28",
+        "title": "Ready Player One: Comienza el juego",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 15203
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "id": 1258362,
+        "original_language": "en",
+        "original_title": "Ready Player One Collection",
+        "overview": "A film collection based on the novels by Ernest Cline 'Ready Player One' and 'Ready Player Two.'",
+        "poster_path": "/luItdCLp37s84YAijXKfOIBINWP.jpg",
+        "title": "Ready Player One Collection"
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
